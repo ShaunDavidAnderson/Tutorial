@@ -6,3 +6,4 @@
 - Github basics
 - Markdown basics
 - Jekyll basics
+- VS Code basics
